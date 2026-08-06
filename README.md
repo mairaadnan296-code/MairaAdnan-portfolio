@@ -66,20 +66,16 @@ Portfolio-Website/
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-
-![home page.png](Screenshot/home%20page.png)
+![Home Page](Screenshots/home%20page.png)
 
 ### 👩‍💻 About Section
-
-![about page.png](Screenshot/about%20page.png) 
+![About Section](Screenshots/about%20page.png)
 
 ### 💼 Projects Section
-
-![project page.png](Screenshot/project%20page.png) 
+![Projects Section](Screenshots/project%20page.png)
 
 ### 📞 Contact Section
-
- ![contact page.png](Screenshot/contact%20page.png)
+![Contact Section](Screenshots/contact%20page.png)
 
 ---
 
