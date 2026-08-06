@@ -112,7 +112,7 @@ Portfolio-Website/
 https://www.linkedin.com/in/maira-adnan-1340a9426/
 
 🐙 GitHub:
-https://github.com/mairaadnan7171-star
+(https://github.com/mairaadnan296-code)
 
 ---
 
